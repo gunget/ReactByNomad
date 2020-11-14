@@ -1,0 +1,6 @@
+div .container {
+  width: 90%;
+  margin: 20px auto;
+  background: gray;
+  border-top: 1px solid indianred;
+}
